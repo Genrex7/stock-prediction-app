@@ -59,4 +59,4 @@ This is a Streamlit web application that allows users to predict and visualize s
 
 -   [ ] Show data of a day also in the graph
 -   [ ] Show data like this [yahoo page](https://finance.yahoo.com/quote/AAPL?p=AAPL&.tsrc=fin-srch)
-# stock-prediction-app
+
